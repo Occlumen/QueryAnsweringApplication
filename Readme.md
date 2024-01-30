@@ -19,4 +19,4 @@ Documentation on setup of the application
 9) Once you see Application startup complete in terminal, Go to your deafult browser and search
                  http://localhost:8000 or the link visible after step 5
 10) Enter your query in the input box provided and click on submit and wait for the results.
-   The results take time depending up the cpu and gpu availability.
+   The results take time depending up the cpu and gpu availability(GPU has not been enabled in the code).
