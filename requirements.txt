@@ -1,0 +1,11 @@
+llama-cpp-python
+llama-cpp-haystack
+cached_property
+haystack-ai[all]
+fastapi
+uvicorn
+pypdf
+sentence_transformers
+torch
+python-dotenv
+python-multipart
