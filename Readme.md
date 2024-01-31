@@ -1,5 +1,7 @@
 Documentation on setup of the application
 
+![folder structure of assignment](https://github.com/Occlumen/QueryAnsweringApplication/assets/82927164/d0080570-de0f-478e-babc-2e473eff074c)
+
 1) Download or clone the entire application provided on the git repository.
 2) Create a folder model inside Assignment and place the downloaded model mixtral-8x7b-v0.1.Q4_K_M.gguf inside the model folder.
 3) create a virtual environment using python -m venv ./venv.
